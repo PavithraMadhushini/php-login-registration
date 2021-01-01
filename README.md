@@ -1,10 +1,9 @@
 REACTJS+PHP+JWT+MYSQL login/logout/user view application
 ============================
 
-## Get started
+## Structure
 
 
-Keep your code in below format when pushing it to your GitHub account.
 ```
 ├── bizlogic  -- Php
 │── ui        -- React JS
